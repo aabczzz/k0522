@@ -11,7 +11,7 @@
 		<table border="1">
 		<caption>사칙연산</caption>
 			<tr>
-				<th>첫번째 수</th>
+				<th>첫번째 수수수수</th>
 				<td><input type="number" name="num1" required autofocus></td>
 			</tr>
 			<tr>
