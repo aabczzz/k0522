@@ -14,7 +14,7 @@
 <script type="text/javascript">
 	let websocket = new WebSocket("ws://192.168.40.186:8080/ch17/websocket");
 	let disp;
-	websocket.onopen = function() { 	// 처음 연결되면 
+	websocket.onopen = function() { 	// 처음 연결되면바보
 		disp = document.getElementById("disp");
 		disp.innerHTML += "연결되었습니다<br>";
 	}
